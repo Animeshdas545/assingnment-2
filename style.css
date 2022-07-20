@@ -18,10 +18,8 @@ body
     margin-right: 50px;
     margin-top: 40px;
     border-radius: 15px;
-    display: flex;
-    
+    display: flex; 
 }
-
 .container-1{
     font-size: 33px;
     margin-left: 60px;
